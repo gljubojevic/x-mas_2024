@@ -1,0 +1,10 @@
+OP AUTHORS:
+
+- ops by cables user pandur (https://cables.gl/user/pandur)
+- DRACO Compression Loader by three.js (https://github.com/mrdoob/three.js/blob/master/examples/jsm/loaders/DRACOLoader.js)
+- ops by cables user action (https://cables.gl/user/action)
+- ops by cables user simod (https://cables.gl/user/simod)
+- ops by cables user tim (https://cables.gl/user/tim)
+- ops by cables user gljubojevic (https://cables.gl/user/gljubojevic)
+
+cables is build on open source software and community contributions, check https://cables.gl/support
